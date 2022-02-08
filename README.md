@@ -28,7 +28,7 @@
   <a href="https://behance.net/0xdane">
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://myanimelist.net/0xdane">
+  <a href="https://myanimelist.net/animelist/0xdane">
     <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
