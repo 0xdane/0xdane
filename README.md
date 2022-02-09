@@ -54,8 +54,6 @@
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
-</p>
-<p align='center'>
   <a href="#"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
@@ -69,6 +67,7 @@
 <p align='center'>
   📫 You can contact me at: <a href="mailto:daneb@broadbandtap.co.uk">daneb@broadbandtap.co.uk</a>
 </p>
+
 
 <p align='center'>
     <img src="https://count.getloli.com/get/@:0xdane" alt=":0xdane" />
