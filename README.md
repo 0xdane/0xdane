@@ -7,7 +7,7 @@
 </h1>
 
 <p align='center'>
-  I'm a fullstack developer mainly working in C# & Javascript.
+  I'm a fullstack developer mainly working in C# & JavaScript.
 </p>
 <p align='center'>
   This is my personal GitHub where I work on personal projects and fun things!
