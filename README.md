@@ -77,7 +77,7 @@
 <br>
 
 <p align='center'>
-    <img src="https://count.getloli.com/get/@:0xdane" alt=":0xdane" />
+    <img src="https://count.getloli.com/get/@:daneffx" alt=":daneffx" />
 </p>
 
 
