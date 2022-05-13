@@ -10,7 +10,7 @@
   I'm a fullstack developer mainly working in C# & JavaScript.
 </p>
 <p align='center'>
-  This is my personal GitHub where I work on personal projects and fun things!
+  This is my GitHub where I work on personal projects and fun things!
 </p>
 
 
