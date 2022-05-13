@@ -13,27 +13,6 @@
   This is my GitHub where I work on personal projects and fun things!
 </p>
 
-
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/danebuch/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/0xdane">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/0xdane">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://behance.net/0xdane">
-    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://myanimelist.net/animelist/0xdane">
-    <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
-
 <br>
 
 <p align='center'>
