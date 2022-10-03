@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://cdn.discordapp.com/emojis/837675595214749696.gif?size=96&quality=lossless" />
+    <img src="https://cdn.discordapp.com/emojis/887831770144313406.gif?size=96&quality=lossless" />
 </p>
 
 <h1 align='center'>
