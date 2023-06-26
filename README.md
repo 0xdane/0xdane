@@ -55,9 +55,9 @@
 
 <br>
 
-<!--- <p align='center'>
-    <img src="https://count.getloli.com/get/@daneffx" alt=":daneffx" />
-</p> --->
+<p align='center'>
+    <img src="https://moe-counter.glitch.me/get/@danevfx?theme=moebooru" alt=":danevfx" />
+</p>
 
 
 
