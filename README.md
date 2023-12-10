@@ -21,7 +21,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=danecfw&show_icons=true&count_private=true&theme=tokyonight" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danecfwe&layout=compact&theme=tokyonight" width="345"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danecfw&layout=compact&theme=tokyonight" width="345"></a>
 </p>
 
 <br>
