@@ -20,8 +20,8 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=danecfw&show_icons=true&count_private=true&theme=tokyonight" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danecfw&layout=compact&theme=tokyonight" width="345"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=przdox&show_icons=true&count_private=true&theme=tokyonight" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przdox&layout=compact&theme=tokyonight" width="345"></a>
 </p>
 
 <br>
@@ -72,17 +72,17 @@
 <br>
 
 <p align='center'>
-    <img src="https://moe-counter.glitch.me/get/@danecfw?theme=moebooru" alt=":0xdane" />
+    <img src="https://moe-counter.glitch.me/get/@przdox?theme=moebooru" alt=":0xdane" />
 </p>
 
 <p align='center'>
-(Views tracked since 07/12/2023)
+(Views tracked since 11/01/2023)
 </p>
 
 
 
 
 <!---
-tfwdane/tfwdane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+przdox/przdox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
