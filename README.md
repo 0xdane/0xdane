@@ -20,8 +20,8 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=przdox&show_icons=true&count_private=true&theme=tokyonight" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przdox&layout=compact&theme=tokyonight" width="345"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=danexrc&show_icons=true&count_private=true&theme=tokyonight" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danexrc&layout=compact&theme=tokyonight" width="345"></a>
 </p>
 
 <br>
@@ -72,11 +72,11 @@
 <br>
 
 <p align='center'>
-    <img src="https://moe-counter.glitch.me/get/@przdox?theme=moebooru" alt=":0xdane" />
+    <img src="https://moe-counter.glitch.me/get/@danexrc?theme=moebooru" alt=":0xdane" />
 </p>
 
 <p align='center'>
-(Views tracked since 11/01/2023)
+(Views tracked since 14/01/2023)
 </p>
 
 
