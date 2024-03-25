@@ -24,6 +24,14 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danexrc&layout=compact&theme=tokyonight" width="345"></a>
 </p>
 
+<p align='center'>
+  <b>My Discord</b>
+</p>
+
+<p align='center'>
+    <a href="https://discord.com/users/227644691003342848"><img src="https://lanyard.cnrad.dev/api/227644691003342848" /></a>
+</p>
+
 <br>
 
 <p align='center'>
