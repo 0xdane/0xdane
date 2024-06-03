@@ -80,7 +80,7 @@
 <br>
 
 <p align='center'>
-    <img src="https://moe-counter.glitch.me/get/@danexrc?theme=moebooru" alt=":0xdane" />
+    <img src="https://moe-counter.glitch.me/get/@danexrc?theme=moebooru" alt=":danexrc" />
 </p>
 
 <p align='center'>
