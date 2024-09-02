@@ -1,7 +1,15 @@
 <p float="left">
- <img src="https://i.chzbgr.com/full/7803620096/h63D44219/awesome-gengar-vs-misdreavus-gif" width="350" align="left">
+ <img src="https://i.imgur.com/mX8LNtI.gif" width="350" align="left">
   <span style="margin-left: 10px;"><p float="left">
     <samp>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
       <br>
       <br>
       <br>
