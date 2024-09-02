@@ -1,6 +1,7 @@
-<p float="left">
- <img src="https://i.imgur.com/mX8LNtI.gif" width="350" align="left">
-  <span style="margin-left: 10px;"><p float="left">
+<p align='center'>
+ <p>
+  <img src="https://i.imgur.com/mX8LNtI.gif" width="350" align="left">
+   <p>
     <samp>
       <br>
       <br>
@@ -18,6 +19,7 @@
       c#, js, ts, html, css, python
       <br>
       <br>
-    </samp>
-  </p></span>
+     </samp>
+   </p>
+ </p>
 </p>
